@@ -18,7 +18,10 @@
 │   └── nginx
 └── www                               	# 应用站点存放目录
 
-windowns下请勿挂载mysql数据目录
+项目介绍：
+php包含redis、swoole等常用扩展,其他包含git、npm、nodejs
+
+注意：windowns下请勿挂载mysql数据目录
 
 clone文件到本地，确认已安装docker docker-compose，执行docker-compose up (后台运行请加 -d)
 
